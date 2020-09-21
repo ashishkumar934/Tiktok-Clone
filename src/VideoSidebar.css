@@ -1,0 +1,15 @@
+.videosidebar {
+  position: absolute;
+  top: 30%;
+  right: 10px;
+}
+.videosidebar_icon {
+  color: white;
+  text-align: center;
+  font: xx-large;
+  padding: 20px;
+  padding-right: 20px;
+}
+.videosidebar_icon > .MuiSvgIcon-root {
+  transform: scale(1.5);
+}
